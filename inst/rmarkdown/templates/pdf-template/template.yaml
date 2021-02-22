@@ -1,0 +1,4 @@
+name: PDF Template
+description: >
+   PDF template with floating toc, paged df_print, 3 sig figs, scientific notatition disabled, and tidyverse loaded.
+create_dir: FALSE
